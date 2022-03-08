@@ -30,3 +30,7 @@ Most important:
 -  we store the state in the database so that we can display it
 
 ### Planned maintenance
+- list view of planned maintenance dates
+- component for displaying data
+- table in mongo that stores the planned maintenance events
+
