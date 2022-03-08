@@ -4,7 +4,24 @@
 
 ![Looking at the same thing](https://www.sloww.co/wp-content/uploads/2020/08/The-Blind-Men-and-the-Elephant.png)
 
+What is bringing value to the user?
+- get an overview of planned mainenance in the future
+- state of the services and a cause for it
+- detailed look on each service
+- when the client gets a call they need to get a page where to look for the issues
+- APIs, integrations state
+- overview of the total state
+- possibility of the drill-down
+- current state of the system and planned maintenance
+- historical state of the system
+
+Most important:
+- current state of the system
+- planned maintenance announcements
+![Current state](https://wac-cdn.atlassian.com/dam/jcr:fb5dbd0c-a8a8-4f70-b68b-87504511ca6c/dropbox-nodropshadow.png?cdnVersion=245)
+
 ## Deliverables
+
 
 ## How to do things
 
