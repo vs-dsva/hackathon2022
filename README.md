@@ -34,8 +34,6 @@ Most important:
 ### Prototype
 ![Image from iOS](https://user-images.githubusercontent.com/72201489/157202714-b3ca8627-b4f1-4b81-a24b-ccfc1fcbfd13.jpg)
 
-
-
 ### Planned maintenance
 - list view of planned maintenance dates
 - component for displaying data
@@ -72,6 +70,7 @@ Then I can see the planned maintenance events
 11:00 CET - 1st code written
 14:20 CET - Figma to HTML Export
 15:30 CET - Break layout into Svelte components
+![Real deal](/doc/img/img_01.png)
 16:15 CET - Final discussions on linking with backend
 
 
