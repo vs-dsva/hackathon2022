@@ -65,11 +65,14 @@ Then I can see the planned maintenance events
 ```
 
 ## Progress log
-08:30 CET - team gathering
-08:45 CET - learning and exploring existing solutions
-10:00 CET - start implementation
+08:30 CET - Team gathering
+08:45 CET - Learning and exploring existing solutions
+10:00 CET - Start implementation
 10:30 CET - Figma prototyping
 11:00 CET - 1st code written
+14:20 CET - Figma to HTML Export
+15:30 CET - Break layout into Svelte components
+16:15 CET - Final discussions on linking with backend
 
 
 ## Retrospective
