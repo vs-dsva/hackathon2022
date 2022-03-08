@@ -22,7 +22,11 @@ Most important:
 
 ## Deliverables
 
-
 ## How to do things
 
-## Miscellaneous
+### Current stste of the system: 
+-  poll the services for all tenants. List is from a config file. Can be hardcoded at 1st
+-  if the service answers 200 then we consider it alive
+-  we store the state in the database so that we can display it
+
+### Planned maintenance
