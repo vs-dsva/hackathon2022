@@ -31,6 +31,11 @@ Most important:
 -  if the service answers 200 then we consider it alive
 -  we store the state in the database so that we can display it
 
+### Prototype
+![Image from iOS](https://user-images.githubusercontent.com/72201489/157202714-b3ca8627-b4f1-4b81-a24b-ccfc1fcbfd13.jpg)
+
+
+
 ### Planned maintenance
 - list view of planned maintenance dates
 - component for displaying data
