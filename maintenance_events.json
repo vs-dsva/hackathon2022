@@ -1,31 +1,31 @@
 [
   {"id": "1", 
    "date": "1646747445",
-   "criticality": "HIGH"
+   "criticality": "HIGH",
    "state": "planned",
    "description":"Deploy new release"
   },
   {"id": "2", 
-   "date": "",
-   "criticality": "LOW"
+   "date": "1646747445",
+   "criticality": "LOW",
    "state": "planned",
    "description":"User access investigations"
   },
   {"id": "3", 
    "date": "",
-   "criticality": "MEDIUM"
+   "criticality": "MEDIUM",
    "state": "planned",
    "description":"Cleanup of files"
   },
   {"id": "4", 
    "date": "1646727445",
-   "criticality": "HIGH"
+   "criticality": "HIGH",
    "state": "done",
    "description":"Atomic bomb dismantling"
   },
   {"id": "5", 
    "date": "1646727445",
-   "criticality": "LOW"
+   "criticality": "LOW",
    "state": "done",
    "description":"Some database update"
   }
