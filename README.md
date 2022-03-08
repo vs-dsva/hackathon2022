@@ -21,8 +21,8 @@ Most important:
 ![Current state](https://wac-cdn.atlassian.com/dam/jcr:fb5dbd0c-a8a8-4f70-b68b-87504511ca6c/dropbox-nodropshadow.png?cdnVersion=245)
 
 ## Deliverables
-- page that displays the tenants (tenant) current state
-- component that displays the planned maintenance events
+[] page that displays the tenants (tenant) current state
+[] component that displays the planned maintenance events
 
 ## How to do things
 
@@ -44,10 +44,10 @@ Most important:
 ### Business rules
 1. Display the tenant status (tenant side):
 ```
-Given that I am an user in halden
+Given that I am an user in Halden
 When I enter the system 
 Then I see Halden status
-An I cannot see other tenants
+And I cannot see other tenants
 ```
 
 2. Display all tenant status (visma side/ie role)
@@ -63,3 +63,14 @@ Given that I am in the system
 When I go to the status page
 Then I can see the planned maintenance events
 ```
+
+## Progress log
+08:30 CET - team gathering
+08:45 CET - learning and exploring existing solutions
+10:00 CET - start implementation
+10:30 CET - Figma prototyping
+11:00 CET - 1st code written
+
+
+## Retrospective
+
