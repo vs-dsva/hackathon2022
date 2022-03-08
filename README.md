@@ -43,17 +43,23 @@ Most important:
 
 ### Business rules
 1. Display the tenant status (tenant side):
+```
 Given that I am an user in halden
 When I enter the system 
 Then I see Halden status
-An I cannot see 
+An I cannot see other tenants
+```
 
 2. Display all tenant status (visma side/ie role)
+```
 Given that I am an admin user
 When I enter the system
 Then I can see all tenants status
+```
 
 3. See the planned maintenance
+```
 Given that I am in the system
 When I go to the status page
 Then I can see the planned maintenance events
+```
