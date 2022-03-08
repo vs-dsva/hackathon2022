@@ -21,6 +21,8 @@ Most important:
 ![Current state](https://wac-cdn.atlassian.com/dam/jcr:fb5dbd0c-a8a8-4f70-b68b-87504511ca6c/dropbox-nodropshadow.png?cdnVersion=245)
 
 ## Deliverables
+- page that displays the tenants (tenant) current state
+- component that displays the planned maintenance events
 
 ## How to do things
 
@@ -34,3 +36,19 @@ Most important:
 - component for displaying data
 - table in mongo that stores the planned maintenance events
 
+### Business rules
+1. Display the tenant status (tenant side):
+Given that I am an user in halden
+When I enter the system 
+Then I see Halden status
+An I cannot see 
+
+2. Display all tenant status (visma side/ie role)
+Given that I am an admin user
+When I enter the system
+Then I can see all tenants status
+
+3. See the planned maintenance
+Given that I am in the system
+When I go to the status page
+Then I can see the planned maintenance events
