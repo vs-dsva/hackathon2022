@@ -21,8 +21,8 @@ Most important:
 ![Current state](https://wac-cdn.atlassian.com/dam/jcr:fb5dbd0c-a8a8-4f70-b68b-87504511ca6c/dropbox-nodropshadow.png?cdnVersion=245)
 
 ## Deliverables
-[] page that displays the tenants (tenant) current state
-[] component that displays the planned maintenance events
+- [] page that displays the tenants (tenant) current state
+- [] component that displays the planned maintenance events
 
 ## How to do things
 
