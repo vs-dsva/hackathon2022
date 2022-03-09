@@ -72,11 +72,13 @@ Then I can see the planned maintenance events
 - 15:30 CET - Break layout into Svelte components
 ![Real deal](/doc/img/img_01.png)
 - 16:15 CET - Final discussions on linking with backend
+- 12:15 CET - Nev version
 
+![Retro](/doc/img/Screenshot%20from%202022-03-09%2015-51-03.png)
 
 ## Retrospective
 
-![Retro](/doc/img/Screenshot from 2022-03-09 15-45-32.png)
+![Retro](/doc/img/Screenshot%20from%202022-03-09%2015-45-32.png)
 
 
 ### Liked
