@@ -76,3 +76,19 @@ Then I can see the planned maintenance events
 
 ## Retrospective
 
+### Liked
+* Nice to build something from scratch (2)
+* Nice to spend time with collageus you dont work so much with (2)
+* To team up with ppl with different roles to get to a result (1)
+* Small team - easier to communicate (2)
+* Nice to see things "live" and be able to give continuous feedback, also learn something new (1)
+
+### Learnt
+* Figma to HTML (1)
+* Learned more about exporting Figma design directly to code (1)
+
+### Lacked
+* Better organization of the event
+* Everybody in the same room (2)
+* That we are not working more like this in real life
+
