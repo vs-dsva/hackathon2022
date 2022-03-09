@@ -76,6 +76,9 @@ Then I can see the planned maintenance events
 
 ## Retrospective
 
+![Retro](/doc/img/Screenshot from 2022-03-09 15-45-32.png)
+
+
 ### Liked
 * Nice to build something from scratch (2)
 * Nice to spend time with collageus you dont work so much with (2)
